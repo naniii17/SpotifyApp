@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppliSpotifyFinal</string>
+    <string name="question">Question?</string>
+    <string name="answer1">Answer1</string>
+    <string name="answer2">Answer2</string>
+    <string name="answer3">Answer3</string>
+    <string name="answer4">Answer4</string>
+</resources>
